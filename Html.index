@@ -1,0 +1,90 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Java Plug – Your Affordable Connection</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f6f6f6; color: #333; }
+    header { background: #222; color: #fff; padding: 1rem 2rem; text-align: center; }
+    .hero { background: #ffd500; padding: 3rem 2rem; text-align: center; }
+    .hero h1 { font-size: 2.5rem; margin-bottom: 1rem; }
+    .hero p { font-size: 1.2rem; color: #444; }
+    .section { padding: 2rem; background: #fff; margin: 1rem; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.05); }
+    .products { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1.5rem; }
+    .product { border: 1px solid #ddd; border-radius: 10px; padding: 1rem; background: #fafafa; text-align: center; }
+    .product h3 { margin: 0.5rem 0; font-size: 1.1rem; }
+    .product p { font-size: 0.9rem; margin: 0.3rem 0; }
+    footer { text-align: center; padding: 1rem; background: #222; color: #fff; margin-top: 2rem; }
+    .tagline { margin-top: 0.5rem; font-style: italic; color: #eee; }
+  </style>
+</head>
+<body><header>
+  <h1>Java Plug</h1>
+  <p class="tagline">Your affordable connection to quality products in Kenya</p>
+</header><section class="hero">
+  <h1>Discover & Promote Products That Sell!</h1>
+  <p>From electronics to real estate — Java Plug connects sellers and buyers across Kenya.</p>
+</section><section class="section">
+  <h2>Popular Products</h2>
+  <div class="products">
+    <div class="product">
+      <p>📱</p>
+      <h3>Samsung A14 (64GB)</h3>
+      <p><strong>KSh 17,999</strong></p>
+      <p>J-Tech Electronics – Mombasa</p>
+      <p>#Electronics</p>
+    </div>
+    <div class="product">
+      <p>🚗</p>
+      <h3>Toyota Axio 2015</h3>
+      <p><strong>KSh 850,000</strong></p>
+      <p>AutoLink Motors – Nairobi</p>
+      <p>#Cars</p>
+    </div>
+    <div class="product">
+      <p>🏠</p>
+      <h3>3BR House – Syokimau</h3>
+      <p><strong>KSh 6,500,000</strong></p>
+      <p>Kenya Homes Ltd – Machakos</p>
+      <p>#RealEstate</p>
+    </div>
+    <div class="product">
+      <p>🥦</p>
+      <h3>Fresh Grocery Basket</h3>
+      <p><strong>KSh 899</strong></p>
+      <p>Green Cart – Eldoret</p>
+      <p>#Groceries</p>
+    </div>
+    <div class="product">
+      <p>🪑</p>
+      <h3>5-Seater Sofa Set</h3>
+      <p><strong>KSh 32,000</strong></p>
+      <p>FurniChoice – Kisumu</p>
+      <p>#Furniture</p>
+    </div>
+    <div class="product">
+      <p>🍽️</p>
+      <h3>10pc Cookware Set</h3>
+      <p><strong>KSh 3,500</strong></p>
+      <p>HomeStyle KE – Nairobi</p>
+      <p>#Utensils</p>
+    </div>
+    <div class="product">
+      <p>💄</p>
+      <h3>Matte Lipstick Set</h3>
+      <p><strong>KSh 900</strong></p>
+      <p>Glam Beauty – Kisumu</p>
+      <p>#Beauty</p>
+    </div>
+    <div class="product">
+      <p>👜</p>
+      <h3>Leather Handbag</h3>
+      <p><strong>KSh 1,800</strong></p>
+      <p>Trendy Styles – Nairobi</p>
+      <p>#Fashion</p>
+    </div>
+  </div>
+</section><footer>
+  <p>&copy; 2025 Java Plug – All Rights Reserved</p>
+</footer></body>
+</html>
